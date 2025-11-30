@@ -1,0 +1,1 @@
+notepad[Key.enter]hiiag[Key.backspace][Key.backspace][Key.space]how[Key.space]are[Key.space]you[Key.shift][Key.ctrl_l][Key.backspace]4[Key.shift]MIT
